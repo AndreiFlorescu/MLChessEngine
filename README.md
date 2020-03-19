@@ -1,5 +1,15 @@
 # MLChessEngine
 
+     _________   _________
+    /\   ___  \ /\   _____\
+    \ \  \__\  \\ \  \___ /
+     \ \   ___  \\ \   __\
+      \ \  \_/\  \\ \  \_/
+       \ \__\\ \__\\ \__\
+        \/__/ \/__/ \/__/
+            (c) Andrei Florescu 2020
+
+
 Create a ml engine for chess.
 	- use minimax
 	- ml with tf for state evaluation
